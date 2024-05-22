@@ -1,0 +1,17 @@
+0xb045c r0 tainted
+0xf5e4 r0 tainted
+0xb0528 r0 tainted
+0xb0544 r0 tainted
+0xb0640 arg1 tainted (sprintf)
+0xf530 r0 tainted
+0xf650 r0 tainted
+0xb01f4 r0 tainted
+0xf530 r0 tainted
+0xf650 r0 tainted
+0xb0008 r0 tainted
+0xb0670 arg1 tainted (sprintf)
+0xf530 r0 tainted
+0xf650 r0 tainted
+0xb0008 r0 tainted
+0xf530 r0 tainted
+0xf650 r0 tainted
